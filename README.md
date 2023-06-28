@@ -7,7 +7,7 @@
 
 - 🔭 I’m studying at **[Fatec Sorocaba](http://www.fatecsorocaba.edu.br/)**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, React Native**
 
 - 📫 How to reach me **kataoka.eric@gmail.com**
 
